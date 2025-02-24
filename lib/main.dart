@@ -7,7 +7,7 @@ import 'package:places/widget/places.dart';
 final colorScheme = ColorScheme.fromSeed(
   brightness: Brightness.dark,
   seedColor: const Color.fromARGB(255, 102, 6, 247),
-  surface: const Color.fromARGB(255, 56, 49, 66),
+  surface: const Color.fromARGB(255, 188, 161, 225),
 );
 final theme = ThemeData.from(
   colorScheme: colorScheme,
